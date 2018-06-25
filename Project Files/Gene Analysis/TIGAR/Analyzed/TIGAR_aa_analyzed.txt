@@ -1,0 +1,158 @@
+The following is nucleotide output for the TIGAR gene alignment: 
+ index :1.0 is a non match
+The following are the mismatch: ['-', 'M']
+index :2.0 is a non match
+The following are the mismatch: ['-', 'A']
+index :3.0 is a non match
+The following are the mismatch: ['-', 'R']
+index :4.0 is a non match
+The following are the mismatch: ['-', 'F']
+index :5.0 is a non match
+The following are the mismatch: ['-', 'A']
+index :6.0 is a non match
+The following are the mismatch: ['-', 'L']
+index :7.0 is a non match
+The following are the mismatch: ['-', 'T']
+index :8.0 is a non match
+The following are the mismatch: ['-', 'V']
+index :9.0 is a non match
+The following are the mismatch: ['-', 'V']
+index :10.0 is a non match
+The following are the mismatch: ['-', 'R']
+index :11.0 is a non match
+The following are the mismatch: ['-', 'H']
+index :12.0 is a non match
+The following are the mismatch: ['-', 'G']
+index :13.0 is a non match
+The following are the mismatch: ['-', 'E']
+index :14.0 is a non match
+The following are the mismatch: ['-', 'T']
+index :15.0 is a non match
+The following are the mismatch: ['-', 'R']
+index :16.0 is a non match
+The following are the mismatch: ['-', 'F']
+index :17.0 is a non match
+The following are the mismatch: ['-', 'N']
+index :18.0 is a non match
+The following are the mismatch: ['-', 'K']
+index :19.0 is a non match
+The following are the mismatch: ['-', 'E']
+index :20.0 is a non match
+The following are the mismatch: ['-', 'K']
+index :21.0 is a non match
+The following are the mismatch: ['-', 'I']
+index :22.0 is a non match
+The following are the mismatch: ['-', 'I']
+index :23.0 is a non match
+The following are the mismatch: ['-', 'Q']
+index :24.0 is a non match
+The following are the mismatch: ['-', 'G']
+index :25.0 is a non match
+The following are the mismatch: ['-', 'Q']
+index :26.0 is a non match
+The following are the mismatch: ['-', 'G']
+index :27.0 is a non match
+The following are the mismatch: ['M', 'V']
+index :44.0 is a non match
+The following are the mismatch: ['S', 'I']
+index :50.0 is a non match
+The following are the mismatch: ['L', 'K']
+index :60.0 is a non match
+The following are the mismatch: ['T', 'M']
+index :66.0 is a non match
+The following are the mismatch: ['I', 'M']
+index :72.0 is a non match
+The following are the mismatch: ['K', 'R']
+index :78.0 is a non match
+The following are the mismatch: ['G', 'D']
+index :95.0 is a non match
+The following are the mismatch: ['A', 'V']
+index :110.0 is a non match
+The following are the mismatch: ['E', 'A']
+index :111.0 is a non match
+The following are the mismatch: ['G', 'R']
+index :112.0 is a non match
+The following are the mismatch: ['K', 'E']
+index :130.0 is a non match
+The following are the mismatch: ['I', 'M']
+index :133.0 is a non match
+The following are the mismatch: ['K', 'I']
+index :148.0 is a non match
+The following are the mismatch: ['S', 'D']
+index :153.0 is a non match
+The following are the mismatch: ['L', 'F']
+index :155.0 is a non match
+The following are the mismatch: ['P', 'Q']
+index :156.0 is a non match
+The following are the mismatch: ['E', 'G']
+index :157.0 is a non match
+The following are the mismatch: ['V', 'S']
+index :159.0 is a non match
+The following are the mismatch: ['G', 'S']
+index :161.0 is a non match
+The following are the mismatch: ['Y', 'C']
+index :178.0 is a non match
+The following are the mismatch: ['G', 'S']
+index :179.0 is a non match
+The following are the mismatch: ['E', 'K']
+index :180.0 is a non match
+The following are the mismatch: ['F', 'V']
+index :181.0 is a non match
+The following are the mismatch: ['R', 'N']
+index :182.0 is a non match
+The following are the mismatch: ['A', 'S']
+index :184.0 is a non match
+The following are the mismatch: ['C', 'S']
+index :185.0 is a non match
+The following are the mismatch: ['S', 'G']
+index :186.0 is a non match
+The following are the mismatch: ['P', 'I']
+index :193.0 is a non match
+The following are the mismatch: ['I', 'V']
+index :207.0 is a non match
+The following are the mismatch: ['G', 'D']
+index :215.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :222.0 is a non match
+The following are the mismatch: ['N', 'S']
+index :228.0 is a non match
+The following are the mismatch: ['A', 'S']
+index :230.0 is a non match
+The following are the mismatch: ['S', 'T']
+index :235.0 is a non match
+The following are the mismatch: ['I', 'M']
+index :241.0 is a non match
+The following are the mismatch: ['D', 'N']
+index :243.0 is a non match
+The following are the mismatch: ['K', 'E']
+index :246.0 is a non match
+The following are the mismatch: ['G', 'R']
+index :247.0 is a non match
+The following are the mismatch: ['-', 'E']
+index :248.0 is a non match
+The following are the mismatch: ['-', 'V']
+index :249.0 is a non match
+The following are the mismatch: ['E', 'K']
+index :253.0 is a non match
+The following are the mismatch: ['H', 'Q']
+index :255.0 is a non match
+The following are the mismatch: ['V', 'I']
+index :260.0 is a non match
+The following are the mismatch: ['R', 'Q']
+index :264.0 is a non match
+The following are the mismatch: ['S', 'N']
+index :266.0 is a non match
+The following are the mismatch: ['V', 'L']
+index :267.0 is a non match
+The following are the mismatch: ['N', 'T']
+index :268.0 is a non match
+The following are the mismatch: ['-', 'E']
+index :269.0 is a non match
+The following are the mismatch: ['-', 'T']
+index :270.0 is a non match
+The following are the mismatch: ['-', 'R']
+There were mutations in the following key sites: [11.0]
+The percent similarity for these two genes without dashes: 0.833948339483
+The percent similarity for these two genes with dashes: 0.719557195572
+The total number of indexes searched: 271.0
+The total number of nonmatches was: 45

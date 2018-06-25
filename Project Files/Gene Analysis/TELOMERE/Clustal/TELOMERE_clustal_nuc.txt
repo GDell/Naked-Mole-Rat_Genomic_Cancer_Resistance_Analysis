@@ -1,0 +1,582 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+HOMOtelomere      ATGACGGCCAGGGGTCAGAGCCCCCTCGCGCCGCTGTTGGAGACTTTGGAAGACCCTTCT
+NMRtelomere       ATGTCGGCTCCAGGTGAGAATCCCCTCCTGCCACTGTTGGAGACTTTGGAAGACTCGTCC
+                  *** ****    *** ***  ******  *** ********************* * ** 
+
+HOMOtelomere      GCCTCCCATGGAGGGCAGACTGACGCTTACCTGACTCTGACCAGTCGTATGACTGGAGAA
+NMRtelomere       GCCTCCCCTGGAGAGCAGACCGACGCTTACTTATCCCTGACCAGTCGTATGACTGGAGAA
+                  ******* ***** ****** ********* *  * ************************
+
+HOMOtelomere      GAAGGAAAAGAAGTAATTACAGAAATTGAGAAAAAACTTCCTCGGCTGTACAAAGTTTTA
+NMRtelomere       GAAGGAAAAGAAGTCATTGTAGAAATTGAGAAAAATCTTCCTCAGCTGTACAAAGTTTTA
+                  ************** ***  *************** ******* ****************
+
+HOMOtelomere      AAGACTCACATTTCCAGTCAAAACTCGGAGCTGAGTAGTGCTGCTCTACAAGCCCTGGGG
+NMRtelomere       AAGATTCACATTTCCAGTCAAAACTCAGAGCTGAGTAGTGCTGCTCTTCAGGCCTTGGGC
+                  **** ********************* ******************** ** *** **** 
+
+HOMOtelomere      TTTTGCTTATATAATCCCAAAATTACCTCAGAATTATCAGAGGCAAATGCTCTAGAATTG
+NMRtelomere       TTTTGCTTGTATAATCCCAAAATTACTTCAGGATTATCAGAAGCAGATATTCAAGAACTG
+                  ******** ***************** **** ********* *** **  ** **** **
+
+HOMOtelomere      CTTTCAAAATTGAATGATACCATTAAGAATTCAGACAAAAATGTACGTACTAGAGCACTT
+NMRtelomere       CTTTCAGAATTGAATGATATTGTTAAAAGTTCAGACAAAAATGTACGTACCAGGGCTCTT
+                  ****** ************   **** * ********************* ** ** ***
+
+HOMOtelomere      TGGGTGATATCTAAGCAGACATTTCCCTCTGAAGTGGTTGGCAAAATGGTATCCAGTATA
+NMRtelomere       TGGGTAATATCCAAACAGACGTTTCCCACTGAAGTTGTTGGCAAAATGGTATCCAGTATA
+                  ***** ***** ** ***** ****** ******* ************************
+
+HOMOtelomere      ATTGATTCATTAGAAATACTGTTTAACAAAGGAGAGACGCATTCTGCTGTTGTTGATTTT
+NMRtelomere       ATTGATTCATTAGAAATAGTATTTAATAAAGGAGAGATACATTCTGCAGTTGTTGATTTT
+                  ****************** * ***** **********  ******** ************
+
+HOMOtelomere      GAAGCATTAAATGTTATCGTAAGGCTAATTGAACAAGCCCCAATTCAAATGGGAGAAGAG
+NMRtelomere       GAAGCATTAAATGTTATCATAAGGCTAATTGAACAAGCCCCAATTCAGATGGGAGAAGAG
+                  ****************** **************************** ************
+
+HOMOtelomere      GCAGTGAGGTGGGCAAAACTGGTCATACCTTTAGTGGTTCATTCAGCACAAAAGGTACAT
+NMRtelomere       TCAGTAAGGTGGGCAAAACTAGTCATACCTTTGGTGGTTCATTCAGCACAGAAAGTACAT
+                   **** ************** *********** ***************** ** ******
+
+HOMOtelomere      TTGCGGGGAGCAACTGCTCTGGAGATGGGAATGCCATTATTGCTTCAGAAACAGCAAGAA
+NMRtelomere       TTACGGGGAGCCACAGCTCTAGAGATGGGAATGCCATTGTTGCTTCAGAAACAACAAGAA
+                  ** ******** ** ***** ***************** ************** ******
+
+HOMOtelomere      ATAGCATCTATTACGGAGCAGCTTATGACTACTAAATTAATCTCAGAACTTCAGAAGCTA
+NMRtelomere       ATAGCATCTATTACAGAGCACCTTATGACTACCAAATTAATCCCAGAACTCCAAAAGCTA
+                  ************** ***** *********** ********* ******* ** ******
+
+HOMOtelomere      TTTATGAGTAAAAATGAGACTTACGTGTTAAAATTATGGCCTTTGTTTGTCAAACTACTT
+NMRtelomere       TTTATGAGTAAAAATGAGACGTATGTTTTAAAATTGTGGCCCTTGTTCGTTAGACTTCTT
+                  ******************** ** ** ******** ***** ***** ** * *** ***
+
+HOMOtelomere      GGAAGGACCTTGCATCGAAGTGGGAGTTTCATCAATTCTCTCTTGCAACTAGAAGAACTT
+NMRtelomere       GGAAAGACCTTGCATCGAAGTGGGACTTTCATCAATTCTTTGCTACAGCTGGAAGAATTA
+                  **** ******************** ************* *  * ** ** ****** * 
+
+HOMOtelomere      GGATTTCGTAGTGGAGCACCCATGATTAAAAAGATAGCTTTTATTGCTTGGAAGAGTTTA
+NMRtelomere       GGATTTCGCAGTGGAGCACCCATGATTAAAAAAATAGCTTTTATTGCTTGGAAGAGCTTA
+                  ******** *********************** *********************** ***
+
+HOMOtelomere      ATAGATAATTTTGCTTTAAATCCAGATATACTATGTAGTGCAAAAAGACTCAAGTTGTTA
+NMRtelomere       ATAGATAATTTTGCTTTAAATCCAGATATACTATGTAGTGCAAAAAGACTGAAGTTGTTA
+                  ************************************************** *********
+
+HOMOtelomere      ATGCAGCCTTTGAGTTCCATCCATGTGAGAACAGAAACTCTAGCATTAACAAAACTAGAA
+NMRtelomere       ATGCAGCCTTTGAGTTCCATCCACGTGAGAACAGAAACCCTAGCATTAACGAAGTTAGAA
+                  *********************** ************** *********** **  *****
+
+HOMOtelomere      GTCTGGTGGTATTTACTGATGAGACTTGGACCTCATCTTCCTGCTAATTTTGAACAGGTT
+NMRtelomere       GTCTGGTGGTATTTACTAATGAGACTCGGACCTCATCTCCCTGCTAATTTTGAACAGGTT
+                  ***************** ******** *********** *********************
+
+HOMOtelomere      TGTGTGCCTCTGATTCAAAGTACAATAAGCATTGATTCTAATGCCTCACCTCAGGGCAAT
+NMRtelomere       TGTGTGCCTCTGATTCAGAGCGCAATAAGT---GATTCTAGCACTTCGCCTCAAGGAAAT
+                  ***************** **  *******    *******   * ** ***** ** ***
+
+HOMOtelomere      TCGTGTCATGTAGCTACATCTCCAGGTTTAAATCCTATGACTCCTGTACACAAAGGTGCT
+NMRtelomere       TCATCTCGTATAGCTTCTTCTCCAGGATTAAATCCTATGACTCCTGTACACAAAGGTCCT
+                  ** * ** * ***** * ******** ****************************** **
+
+HOMOtelomere      TCCTCCCCGTACGGAGCCCCGGGAACTCCCCGAATGAACCTGAGTTCGAATTTAGGTGGA
+NMRtelomere       TCCC---TATATGGAGGTCCTGTAACTCCACGAATACACATAAGTACAAATTCAAGTGGA
+                  ***      ** ****  ** * ****** *****  ** * *** * **** * *****
+
+HOMOtelomere      ATGGCCACAATCCCATCCATTCAACTTTTGGGACTTGAAATGTTGCTTCATTTCTTGTTG
+NMRtelomere       ATGGCAACAATCCCTTCCATTCAACTTTTGGGACTTGAAATGCTGCTTCATTTTTTGCTG
+                  ***** ******** *************************** ********** *** **
+
+HOMOtelomere      GGTCCAGAAGCCTTGAGTTTTGCTAAGCAAAATAAACTTGTGCTGAGCTTAGAGCCATTG
+NMRtelomere       GGTCCAGAAGTCTTGAGTTTTGCTAAGCAACACAAACTTGTATTGAGCTTAGAACCACTT
+                  ********** ******************* * ********  ********** *** * 
+
+HOMOtelomere      GAACATCCGTTAATCAGCAGCCCTTCCTTTTTTTCCAAACATGCAAATACACTTATCACT
+NMRtelomere       GAACATCCATTAATCAGCAGCCCTTCTTTTTTTTCCAAACATGCACATACACTTATCACT
+                  ******** ***************** ****************** **************
+
+HOMOtelomere      GCTGTTCATGATAGCTTTGTTGCAGTTGGAAAAGATGCCCCCGATGTGGTTGTCAGTGCT
+NMRtelomere       GCTGTTCATGACAGCTTTGTTGCAGTTGGGAGAGATGCTTCTGATGCAGTTGTCAGTGCT
+                  *********** ***************** * ******  * ****  ************
+
+HOMOtelomere      ATCTGGAAGGAGCTAATTAGCTTGGTGAAGTCAGTTACTGAATCAGGTAACAAAAAAGAG
+NMRtelomere       ATCTGGAAGGAGCTAATTAGCTTAGTGAATTCACTTACTGAATCTGGTAACAAAAAAGAG
+                  *********************** ***** *** ********** ***************
+
+HOMOtelomere      AAACCAGGTTCTGAAGTTTTGACTCTCTTATTAAAGTCTTTGGAAAGCATAGTAAAGTCT
+NMRtelomere       AGACCAGGTTCTGAAGTATTGACCCTCCTACTGAAATCTTTGGAAAGCATAATGAAGTCT
+                  * *************** ***** *** ** * ** *************** * ******
+
+HOMOtelomere      GAAGTATTTCCTGTATCAAAAACGCTGGTCCTCATGGAAATTACAATTAAAGGACTTCCT
+NMRtelomere       GAAGTACTTCCTGTATCGAAAACGCTGGTCCTCATGGAAATTACAATTAAAGGACTTCCT
+                  ****** ********** ******************************************
+
+HOMOtelomere      CAGAAAGTATTAGGTTCACCAGCATATCAGGTTGCTAATATGGATATTCTTAATGGAACT
+NMRtelomere       CAGAAAGTATTAGGTTCACCAGCATATCAGGTTGCTAATATGGATATTCTTAATGGAACT
+                  ************************************************************
+
+HOMOtelomere      CCAGCTTTGTTCTTAATTCAATTAATTTTCAACAATT---TCTTGGAATGTGGTGTATCA
+NMRtelomere       CCAGCTTTGTTCTTAATTCAGTTAATTTTCAGCAGTTATCTCCAGGAATGTGGTATAGCA
+                  ******************** ********** ** **   **  ********** ** **
+
+HOMOtelomere      GATGAAAGGTTCTTTCTCAGTTTGGAATCACTTGTAGGCTGTGTTCTTTCTGGTCCAACT
+NMRtelomere       GATGAAAGGTTTTTTCTAAATCTGGAAACACTTGTAGGCTGTGTGCTTTCTGGTCCAACT
+                  *********** ***** * * ***** **************** ***************
+
+HOMOtelomere      TCACCACTAGCTTTCAGTGACTCAGTTTTAAATGTTATTAATCAAAATGCAAAGCAGTTG
+NMRtelomere       TCACCACTAGCTTTTAGTGACTCTGTTTTAAATGTAATTAATCAAAATGCAAAGCAAGTG
+                  ************** ******** *********** ********************  **
+
+HOMOtelomere      GAAAATAAGGAGCATCTCTGGAAAATGTGGAGTGTTATAGTCACCCCATTAACTGAATTG
+NMRtelomere       GAAAATAAGGAACATCTCTGGAGAATGTGGAGCATTATAGTCACACCTTTAACTGAATTC
+                  *********** ********** *********  ********** ** *********** 
+
+HOMOtelomere      ATTAATCAGACCAATGAAGTAAATCAAGGTGATGCCTTAGAACATAATTTTAGTGCCATC
+NMRtelomere       ATTAATCAGACCAATGAAGTAAATCAAGGTGATGCCTTAGAACATAATTTTAGTGCCATC
+                  ************************************************************
+
+HOMOtelomere      TATGGTGCATTGACTTTACCAGTAAACCACATTTTTTCAGAACAGAGATTTCCAGTGGCC
+NMRtelomere       TATAGTGCATTGGCTTTACCAATACATCATATTTTTGCAGTACAGAGATTGCCTGTGGTG
+                  *** ******** ******** ** * ** ****** *** ********* ** ****  
+
+HOMOtelomere      ACCATGAAGACTTTGCTTAGAACTTGGTCAGAATTATATAGAGCATTTGCTCGTTGTGCT
+NMRtelomere       ACGATGAAGGCTTTACTTCAAACTTGGTCAGAATTATATAGAGTATTTGCTCGCTGTGCT
+                  ** ****** **** ***  *********************** ********* ******
+
+HOMOtelomere      GCTTTGGTGGCAACAGCAGAAGAGAACTTGTGCTGTGAGGAACTTTCTTCCAAGATAATG
+NMRtelomere       GCTTTGGTGGCAACAGCAGAAGAGAATTTGTGTTGTGAAGAACTTTCTTCTAAGATAATG
+                  ************************** ***** ***** *********** *********
+
+HOMOtelomere      TCCAGTTTGGAAGATGAAGGCTTTTCTAATTTGTTGTTCGTGGATAGAATTATTTATATT
+NMRtelomere       TCCATTTTGGATGATGAAGCCTTTTTGAATTTGTGGTTCTTGGACAGGATCATTCATATT
+                  **** ****** ******* *****  ******* **** **** ** ** *** *****
+
+HOMOtelomere      ATTACTGTAATGGTTGATTGCATTGACTTCTCACCATATAATATTAAATATCAGCCCAAA
+NMRtelomere       ATTACTGTAATAGTGGATTGCATTGACTTTTCACCATATAATACTAAATATCAGCGCAAA
+                  *********** ** ************** ************* *********** ****
+
+HOMOtelomere      GTTAAATCACCACAGAGACCTTCAGATTGGTCCAAAAAGAAGAATGAGCCCCTAGGGAAA
+NMRtelomere       GTTAAATCACCACAGAGATCTTCAGATTGGGCCAAAAAGAAGAAAGACCCCCTAGGAAAA
+                  ****************** *********** ************* ** ******** ***
+
+HOMOtelomere      TTGACTTCTTTATTTAAACTTATTGTGAAAGTGATCTATTCTTTCCACACACTGAGCTTC
+NMRtelomere       TTGGCCTCTTTAGTTAAACTTATTGTAAGAGTCATCTGTTCTTTCCACACTTTGAGCTTC
+                  *** * ****** ************* * *** **** ************  ********
+
+HOMOtelomere      AAGGAAGCACATTCTGATACCCTCTTCACTATTGGCAACTCAATCACCGGCATTATTTCC
+NMRtelomere       AAGGAAGCACATTCTGATGCGCTACTTGGTGTCGGCAACTCAATCATTAGCATGATTTCC
+                  ****************** * **  *   * * *************   **** ******
+
+HOMOtelomere      AGTGTACTTGGGCATATTTCTTTGCCTTCTATGATCCGAAAAATATTTGCAACTTTAACA
+NMRtelomere       AATCTACTTGGACATATTTCTTTGCCTTCTGTGATTCGAAAAATATTTGCAGTATTAACA
+                  * * ******* ****************** **** ***************   ******
+
+HOMOtelomere      AGACCTCTGGCATTATTTTATGAAAACTCAAAGCTTGATGAAGTTCCTAAAGTATATAGT
+NMRtelomere       AGACCCTTGGCATTGTTTTATGAAAACTCCAAGCTTGATGAAGTTCCTAAAGTGTATAGT
+                  *****  ******* ************** *********************** ******
+
+HOMOtelomere      TGTCTGAACAACAAGTTAGAAAAGCTACTGGGAGAAATTATTGCTTGTCTGCAATTCAGC
+NMRtelomere       TCTCTGAACAACAAGTTAGAAAAGCTACTAGGAGAAATTATTACTTGTCTACAGTCC---
+                  * *************************** ************ ******* ** * *   
+
+HOMOtelomere      TACACCGGAACTTATGATAGTGAACTTCTTGAACAACTCTCCCCACTATTATGCATAATA
+NMRtelomere       TGCGCTGGCACTTATGACAGTGAACTTCTTGAACAGCTCTCCCCACTGTTATGCATAATA
+                  * * * ** ******** ***************** *********** ************
+
+HOMOtelomere      TTTCTGCACAAGAATAAACAGATTCGAAAACAGAGTGCTCAGTTCTGGAATGCCACTTTT
+NMRtelomere       TTTCTGCACAAGAATAAACAGATTCGAAAGCAGAGTGCTCAGTTCTGGAATGCTACATTT
+                  ***************************** *********************** ** ***
+
+HOMOtelomere      GCCAAAGTGATGATGTTGGTTTATCCTGAAGAGTTAAAACCAGTACTAACACAAGCCAAA
+NMRtelomere       GCTAAAGTGATGACGTTGAACTATCCTGAAGAGTTAAAACCAGTACTAAGAGAAGCCAAA
+                  ** ********** ****   **************************** * ********
+
+HOMOtelomere      CAAAAATTTCTGCTCCTGTTGCCTGGTTTGGAAACTGTTGAAATGATGGAGGAATCCAGT
+NMRtelomere       CAAAAAGTTTTACTTCTGTTGCCTGGTTTGGAAAATGTTGAAATAATAGAGGAATCCAGT
+                  ****** ** * ** ******************* ********* ** ************
+
+HOMOtelomere      GGACCATATTCTGATGGAACAGAAAATTCACAACTAAATGTGAAGATAAGTGGCATGGAG
+NMRtelomere       GGATCATATTCAGATGCAACAGAAAATTCACAATTAAACATGAAGATAAGTGGTGTGGAA
+                  *** ******* **** **************** ****  *************  **** 
+
+HOMOtelomere      AGAAAATCAAATGGAAAAAGAGATTCATTTTTGGCACAAACAAAGAATAAAAAAGAAAAT
+NMRtelomere       AGAAAATCAAATGGAAAAAGGGATTCTTTTTTGGCACAAACAAAGGAAAAACAAGAAAAT
+                  ******************** ***** ****************** * *** ********
+
+HOMOtelomere      ATGAAACCAGCAGCCAAACTGAAACTTGAATCTTCGTCTTTAAAAGTAAAGGGTGAAATT
+NMRtelomere       ATGAAGCCATCTGCCAAACTGAAACGAGAATCTTCATCTCCAAAAGTAAAGAGGGAAATG
+                  ***** *** * *************  ******** ***  ********** * ***** 
+
+HOMOtelomere      CTTTTGGAAGAGGAAAAGTCTACTGACTTTGTGTTTATACCTCCAGAAGGAAAAGATGCA
+NMRtelomere       CTTTTGGAAGAAGAAAAGTCTACTGATTTTGTGTTTATACCTCCAGAAGGAAAAGAATTA
+                  *********** ************** *****************************   *
+
+HOMOtelomere      AAGGAAAGAATATTAACTGATCATCAAAAAGAAGTTCTCAAAACAAAGCGGTGTGATATT
+NMRtelomere       AAGGAAAGAATACTAACTGAACACCAAAAAGAAGTACTCAAGACAAAGCGGTGTGATATT
+                  ************ ******* ** *********** ***** ******************
+
+HOMOtelomere      CCTGCCATGTATAATAATCTGGATGTTTCCCAAGATACCTTATTTACTC---AGTATAGT
+NMRtelomere       CCTGCCATGTATAATAATCTGGATGTTTCACAAGATACCTTATTTTCTGATCACTATAGT
+                  ***************************** *************** **    * ******
+
+HOMOtelomere      CAGGAAGAGCCTATGGAAATTCCTACTTTAACCAGAAAACCAAAGGAGGATTCTAAGATG
+NMRtelomere       CAAGAAGAGTCTGTGCAAACTCCTACTTTAACTGAAAAACCAAAGGAAGATACCAAGATG
+                  ** ****** ** ** *** ************   ************ *** * ******
+
+HOMOtelomere      ATGATTACGGAGGAGCAAATGGACAGTGACATTGTCATTCCTCAAGATGTCACGGAAGAC
+NMRtelomere       GTGATTAAGGAGGAACAAATGAAGAGTGATACTGTTA---TTCAAGATGCCTTGGAAAAC
+                   ****** ****** ****** * ***** * *** *    ******** *  **** **
+
+HOMOtelomere      TGTGGTATGGCTGAACATCTTGAAAAGTCCTCCCTTTCGAATAATGAGTGTGGTTCTCTT
+NMRtelomere       TGTGGTATGGATGAACATATCGAAAAGCCTTCTTTTTCAAATAATGAGTGTGGTTTTGTT
+                  ********** ******* * ****** * **  **** **************** * **
+
+HOMOtelomere      GACAAAACCAGTCCAGAAATGTCAAACAGTAATAATGATGAAAGAAAAAAAGCTTTAATT
+NMRtelomere       CCCAAAACCAATCCAGAAATACTGAGCAGTAATAACAAAGCCAGAAAAAACACTTTAATT
+                    ******** *********    * *********  * *  ********  ********
+
+HOMOtelomere      TCATCAAGGAAAACATCAACTGAATGTGCATCTAGTACAGAAAATTCTTTCGTTGTCAGC
+NMRtelomere       TCATCAAAGAAAACTTCAACTGAATGTACATCTAGTGCAGAAAATTCATTA---CCCAGC
+                  ******* ****** ************ ******** ********** **      ****
+
+HOMOtelomere      AGTAGTTCAGTTTCTAATACCACTGTTGCTGGAACTCCCCCATACCCTACAAGTCGGAGG
+NMRtelomere       AGTCGATCAGTTTCTGATGCCAGTATTTCTGGAACTCACCCACAGCCTACAAGTCGGAGG
+                  *** * ********* ** *** * ** ********* **** * ***************
+
+HOMOtelomere      CAAACCTTTATTACTTTGGAGAAGTTTGATGGTTCAGAAAATAGACCTTTTAGTCCATCC
+NMRtelomere       CAAAGCTTTATTACCTTGGAGAAGTTTGATGGTTCAGATAATAGACCTTTCAGCCCATCC
+                  **** ********* *********************** *********** ** ******
+
+HOMOtelomere      CCCTTGAATAATATTTCATCAACTGTTACAGTGAAAAATAACCAGGAAACCATGATTAAA
+NMRtelomere       TCCTTGGGTAATATGTCTTCAGATATTTCAGTGCAAAATAACTGTGAAAATGTGACTACA
+                   *****  ****** ** ***  * ** ***** ********   ****   *** ** *
+
+HOMOtelomere      ACAGATTTTCTACCAAAAGCAAAGCAAAGAGAAGGGACTTTTTCAAAATCTGATTCTGAA
+NMRtelomere       ACAGATAGTACACCAAAAACAAAGAAGAGAGAAGTGATGCATTCAAAATCTGATTCTGAA
+                  ******  *  ******* ***** * ******* **    *******************
+
+HOMOtelomere      AAAATAGTGAATGGAACTAAGAGATCAAGCCGGAGAGCTGGTAAAGCTGAACAAACAGGG
+NMRtelomere       AAAATACTGAATGGAGTTAAGCGATCAAGCAGAAGATTGAGTAAAGCTGAGAGGGCAGCA
+                  ****** ********  **** ******** * ***    **********     ***  
+
+HOMOtelomere      AATAAAAGGTCTAAGCCCTTAATGAGATCTGAGCCGGAGAAAAATACTGAGGAATCTGTT
+NMRtelomere       AATAAAAGATCAAAACCCTTGATAAAATCTGAACAGGAGGAAAATAATCAAGAACCTGTT
+                  ******** ** ** ***** ** * ****** * **** ****** * * *** *****
+
+HOMOtelomere      GAAGGCATTGTAGTCTTAGA---AAATAACCCACCTGGTTTGCTTAATCAAACAGAATGT
+NMRtelomere       GAAGGGACAATAGCTTTAGAAAATATTAACTCACCTGATTTGCATAATCAAACAGAATGT
+                  ***** *   ***  *****    * **** ****** ***** ****************
+
+HOMOtelomere      GTGTCAGATAATCAGGTTCATCTTTCTGAATCTACAATGGAGCATGACAATACAAAGCTT
+NMRtelomere       TTGTCAGATGGTCAGGTTCATTTTTCTGAATCTGTTGGGGAGCATGAAGATAAG------
+                   ********  ********** ***********     *********  ***        
+
+HOMOtelomere      AAAGCAGCAACAGTGGAAAATGCTGTATTATTGGAAACTAATACTGTAGAGGAGAAAAAT
+NMRtelomere       CCTAAACCAACAGTAGAAAATGCTGTGTTATTGGAAACCAGTACTGTCCAAGAGAAAAAC
+                       * ******* *********** *********** * ******  * ******** 
+
+HOMOtelomere      GTAGAAATTAATTTGGAATCCAAAGAGAATACACCCCCAGTAGTAATATCAGCAGATCAA
+NMRtelomere       ATGGGGGTTAATTTAGAATCCAAAGAAAATACACCTCCAGCAGTGACTCCAGCAGATGAA
+                   * *   ******* *********** ******** **** *** *   ******** **
+
+HOMOtelomere      ATGGTAAATGAGGATAGTCAGGTTCAGATAACTCCAAATCAGAAAACCCTTAGACGGTCT
+NMRtelomere       GTGGTTAATGAAGAAAGTCAAGTTCAGGTAACTCCAAATCAAAAAACCCTGAGACGGTCT
+                   **** ***** ** ***** ****** ************* ******** *********
+
+HOMOtelomere      TCAAGGCGACGTTCAGAAGTAGTAGAGTCTACCACTGAAAGCCAAGATAAGGAAAATAGT
+NMRtelomere       TCAAGGCGACGTTCAGAAATAACAGACTGTATTGGTGATAACCAAGATAAAGAAAATAGT
+                  ****************** **  *** * **    *** * ********* *********
+
+HOMOtelomere      CATCAAAAAAAGGAACGACGTAAGGAAGAAGAAAAACCTCTTCAGAAGAGTCCATTGCAT
+NMRtelomere       CATCAAAAAAGGGAAAGACGTAAGGAAGAGGAAAAACCTCAGAGT---------------
+                  ********** **** ************* **********                    
+
+HOMOtelomere      ATAAAAGATGATGTGTTACCTAAACAAAAACTGATTGCTGAACAAACTCTACAGGAGAAT
+NMRtelomere       ---TTATTGCATGTGTCACCTAAGCAGAAACTGACTTCTGAACAAACAGAACAGGACAAA
+                       *    ****** ****** ** ******* * **********   ****** ** 
+
+HOMOtelomere      TTAATTGAGAAAGGAAGTAATTTACATGAGAAGACTCTTGGGGAAACTAGTGCTAATGCA
+NMRtelomere       TTACTTGAGAAAGAAAATAATTTACATGAGAAGGCTTCTGGTGAAACCAGTGCTAATGCT
+                  *** ********* ** **************** **  *** ***** *********** 
+
+HOMOtelomere      GAAACTGAACAAAATAAAAAAAAGGCAGACCCTGAGAACATTAAGTCTGAGGGGGATGGT
+NMRtelomere       GACATTGACCAAAATAAAAGAAAACCAGACCTTGAAAATGTTAATTCTGAGGGTGATAGT
+                  ** * *** ********** ***  ****** *** **  **** ******** *** **
+
+HOMOtelomere      ACCCAGGACATTGTAGATAAGTCCTCTGAGAAACTAGTCAGAGGCCGAACACGGTATCAA
+NMRtelomere       GCCCTGGACATTGTAGATAAGTCCTCTGAGAAACCTTTAAGAGGCCGAACACGTTATCAA
+                   *** *****************************   * ************** ******
+
+HOMOtelomere      ACTAGAAGAGCATCTCAGGGTTTGCTTTCCAGCATTGAAAACTCAGAATCTGATAGTTCG
+NMRtelomere       ACAAGAAGAGCATCTCAGGGTTTACTTTCCAGCATTGAAAATTCAGAATCTGATAGTTCT
+                  ** ******************** ***************** ***************** 
+
+HOMOtelomere      GAGGCAAAAGAAGAAGGTTCTAGGAAGAAGAGATCTGGAAAATGGAAAAACAAAAGCAAT
+NMRtelomere       GAGGCAAAAGAAGAAGGTTCTAGGAAGAAGAGATCTGGAAAATTGAAAAACAAAAACAAT
+                  ******************************************* *********** ****
+
+HOMOtelomere      GAAAGTGTTGACATTCAAGATCAAGAAGAGAAAGTGGTGAAACAGGAATGTATAAAAGCT
+NMRtelomere       GACAGTGTTAATATTGAAGAACAAGAAA---AAATGGTAGAAAAGGAATCTCTAAATGTA
+                  ** ****** * *** **** ******    ** ****  ** ****** * **** *  
+
+HOMOtelomere      GAAAATCAGTCACATGATTATAAAGCAACTTCTGAAGAAGATGTAAGCATAAAATCTCCG
+NMRtelomere       GAGAATCACACACAGGATCATAAAGCAACTTCTGAAGTAGATGTAGACAAAAAGCCTCCG
+                  ** *****  **** *** ****************** *******  ** ***  *****
+
+HOMOtelomere      ATTTGCGAAAAACAAGATGAAAGTAATACTGTAATATGTCAGGATTCTACAGTAACTTCA
+NMRtelomere       GTTTGTGAAAA---AGATGCAAGTAGTCCTGAAATACTTCAGGATTCTACAGCAGCTACA
+                   **** *****   ***** ***** * *** ****  ************** * ** **
+
+HOMOtelomere      GATTTGTTGCAAGTTCCTGATGATTTACCAAATGTGTGTGAGGAAAAAAATGAAACTAGC
+NMRtelomere       GATACTTTACAAGTTTCTGATGTTGTGCCAAATACATATGAGGGAAACGCTAAGACTAGC
+                  ***   ** ****** ****** * * ******   * ***** ***   * * ******
+
+HOMOtelomere      AAATATGCAGAATATTCCTTTACAAGTCTACCTGTGCCAGAATCAAATCTAAGGACTAGA
+NMRtelomere       AAATGTGCAGAGTATACCTTTGCAAGTTCACCTATGCCAGAATCAAATTTAAGGACTAGA
+                  **** ****** *** ***** *****  **** ************** ***********
+
+HOMOtelomere      AATGCCATTAAGAGATTACATAAGCGAGACTCTTTTGATAATTGTAGTTTGGGAGAATCC
+NMRtelomere       AATGCAAGTAAGAGATTGCTTAAGCGAGATTCTGGTAA------CAGTGTGGGAGAATGT
+                  ***** * ********* * ********* ***  * *       *** *********  
+
+HOMOtelomere      TCAAAAATAGGGATATCAGATATTTCTTCGCTTTCAGAAAAAACTTTTCAAACACTTGAA
+NMRtelomere       TCCAAAACTAGGACATCAGAAATTTCTGTGCTTTCTGAAAAAAATGTGCAGACATTTGAA
+                  ** ****   *** ****** ******  ****** ******* * * ** *** *****
+
+HOMOtelomere      TGCCAACACAAGAGAAGTAGGAGGGTGAGGAGATCTAAAGGTTGTGATTGCTGTGGGGAA
+NMRtelomere       TGCCAGCATAAGAGAAGTCGGAGGGTGAGGCGATCTAAAGGTTGTGACTGCTGTGGGGAA
+                  ***** ** ********* *********** **************** ************
+
+HOMOtelomere      AAATCACAACCTCAGGAAAAGTCACTCATTGGGTTAAAGAATACAGAAAATAATGACGTA
+NMRtelomere       AAATCTCAACTTCAGGAAAAGTCATCCATTGGGTTAAAGAACACAGAAAATTTTGACATA
+                  ***** **** *************  *************** *********  **** **
+
+HOMOtelomere      GAGATTAGTGAAACAAAAAAGGCAGATGTGCAAGCACCTGTAAGCCCATCAGAA---ACT
+NMRtelomere       AAGAGTAACGAAACAAAAAAGACAGATGTGCAAACACCTGACACAGTATTAGAAACAGAT
+                   *** **  ************ *********** ******  *    ** ****     *
+
+HOMOtelomere      TCTCAAGCTAATCCATATTCTGAAGGACAATTTTTAGATGAACATCATAGTGTGAATTTT
+NMRtelomere       TCTAAAGCTAATTTGTGTTCTGAAGCAAAATTTTTAGATGAATGTGGAAGTGTGAATTTT
+                  *** ********   * ******** * **************  *   ************
+
+HOMOtelomere      CATTTGGGTCTCAAAGAGGATAATGATACTATTAATGATTCATTAATTGTTTCTGAAACC
+NMRtelomere       AATTTGGTTCTTAAGGGGAATGATACTATTAATGACTT---------TGTACCTGAAATA
+                   ****** *** ** * * ** **  ** ** * *            ***  ******  
+
+HOMOtelomere      AAATCAAAAGAAAACACTATGCAAGAATCTCTTCCTTCTGGAATAGTAAACTTTAGAGAG
+NMRtelomere       GAGTCAAAAGAAAATACTATTCAAAAAT------CTTCTGAAATAGTAAATTTGAAAGAA
+                   * *********** ***** *** ***      ****** ********* ** * *** 
+
+HOMOtelomere      GAAATTTGTGATATGGATTCTAGTGAAGCAATGTCTCTTGAAAGCCAGGAGTCACCTAAT
+NMRtelomere       AAAGCTTGTGATGTGGATTCTGG---TGAAGTGTCTCTTGAAAGTGAAGAGCCAACAAAT
+                   **  ******* ******** *    * * *************  * *** ** * ***
+
+HOMOtelomere      GAAAATTTTAAAACTGTTGGCCCGTGTTTAGGAGACTCGAAAAATGTTTCACAGGAATCT
+NMRtelomere       AAGAAATTTAAAGCAGTGGGCCCATGTTTAGGTGATTGTAAGGACATTTCAGAAGAATAT
+                   * ** ****** * ** ***** ******** ** *  **  *  ***** * **** *
+
+HOMOtelomere      TTG---GAGACAAAAGAAGAAAAACCAGAAGAAACCCCAAAAATGGAACTGAGTCTAGAG
+NMRtelomere       CATTTGGACACCAAGGAAGAAAAGCCAGAAACAACCCTCAAAAAAGAACTTACTGT----
+                        ** ** ** ******** ******  *****  ****  ***** * * *    
+
+HOMOtelomere      AATGTTACTGTTGAAGGAAATGCATGTAAAGT---AACAGAATCCAATCTAGAGAAAGCA
+NMRtelomere       --TGTTAATATTGAAGGAAATGCATGTCAAGTGATAGGAGAATCCAATCTAGAGGGAGTA
+                    ***** * ***************** ****   *  ****************  ** *
+
+HOMOtelomere      AAAACTATGGAATTGAATGTAGGAAATG---------AAGCTAGCTTTCATGGACAAGAG
+NMRtelomere       AAAGCTATGGAATTAGATGTAGAAAACAATAAATCTGAAGCTAGTGTTTCTGAAAAAGAG
+                  *** **********  ****** ***           *******  **  ** * *****
+
+HOMOtelomere      AGAACCAAAACTGGTATTTCTGAAGAAGCAGCAATAGAAGAAAATAAAAGAAATGATGAC
+NMRtelomere       TATGTCGAAACTGATACTTCTAAA---GTGGCAACAGAGGAATGTAAGAGTAGTGATGAC
+                       * ****** ** **** **   *  **** *** ***  *** ** * *******
+
+HOMOtelomere      TCTGAAGCAGACACAGCTAAACTGAATGCCAAAGAAGTAGCAACTGAGGAATTTAATTCA
+NMRtelomere       CCTAACACAGAAACAGCTGACAAAGTAGATGTTGAAGCAGCAGCTGAGGAATTTTATTCA
+                   ** *  **** ****** *       *     **** **** *********** *****
+
+HOMOtelomere      GATATTAGTCTTTCTGATAATACTACACCTGTAAAATTGAATGCTCAAACTGAGATTTCT
+NMRtelomere       GGTGTTAGTCTTTGTGATAACACCACACTTATAAATGTGAATACTCAGACTCAGATTTCT
+                  * * ********* ****** ** **** * ****  ***** **** *** ********
+
+HOMOtelomere      GAACAAACAGCAGCTGGGGAACTAGATGGAGGAAATGATGTATCTGATCTACACTCATCT
+NMRtelomere       GAACAAATAGGCAGGGAGGCAGG---TGACAGAAGTAATGAGTCAGATTTAGGCACATCT
+                  ******* **     * ** *     **   *** * ***  ** *** **  * *****
+
+HOMOtelomere      GAAGAAACGAATACCAAAATGAAAAATAATGAAGAAATGATGATCGGCGAGGCAATGGCT
+NMRtelomere       GAAGAAATGAATGCTAAAATGGAAAACTATGAAGAAACGCTGATTGGTCACATGAATAAT
+                  ******* **** * ****** ****  ********* * **** **  *    *    *
+
+HOMOtelomere      GAAACTGGCCATGATGGTGAAACAGAGAATGAGGGCATAACTACCAAAACCTCAAAGCCT
+NMRtelomere       GAAATTGCCAGTGTCAAAGAATCAGAGGATGAGGACATGACTCCTAAA---ACTAAGTCA
+                  **** ** *  **     *** ***** ****** *** *** * ***    * *** * 
+
+HOMOtelomere      GATGAAGCTGAAACAAACATGTTGACTGCAGAAATGGACAACTTTGTTTGTGACACAGTT
+NMRtelomere       GAAGAAACCAAAACAGAACAGTTGAGTGCAGAACTTGACAGTTTTGTTCTTGACAAACTT
+                  ** *** *  ***** *   ***** ******* * ****  ******  ***** * **
+
+HOMOtelomere      GAAATGAGCACTGAAGAAGGAATCATTGACGCTAATAAAACTGAAACAAATACTGAGTAT
+NMRtelomere       GAAATGACTAACAAGGAAGAAAAGGTTGACTCTAATAAAACTGAAACAAATACTGAATTT
+                  *******  *   * **** **   ***** ************************* * *
+
+HOMOtelomere      AGTAAATCTGAAG---AAAAATTAGATAACAATCAAATGGTAATGGAAAGTGATATTTTA
+NMRtelomere       AGTAAGTCTGAAGAAGCAAATTTAGATGACAATCAAATGGTAGTGGGAAATGACATTTTA
+                  ***** *******    *** ****** ************** *** ** *** ******
+
+HOMOtelomere      CAGGAAGATCACCATACTTCACAGAAAGTGGAGGAACCATCACAGTGTCTGGCATCTGGA
+NMRtelomere       CTGGAAGTTAATCATACTCCACATAAAGTGGAGGAACCATCACAGTCTTTGACATCTGAA
+                  * ***** * * ****** **** ********************** * ** ****** *
+
+HOMOtelomere      ACAGCTATCTCTGAGCTAATAATAGAAGACAATAATGCATCTCCTCAAAAACTAAGGGAA
+NMRtelomere       ACAACTATCTCTGAGCTAGTAACAGAGGACAATAATTCATCTCCTGAAAAATTACGAGAA
+                  *** ************** *** *** ********* ******** ***** ** * ***
+
+HOMOtelomere      CTTGATCCTTCACTTGTGTCAGCAAATGACAGTCCTAGTGGCATGCAGACACGCTGTGTC
+NMRtelomere       CTTGATTCTTTATTCATGTCAGCAAGTGATAGTCCTAGTGGCATACAGACACGCTGTGTC
+                  ****** *** * *  ********* *** ************** ***************
+
+HOMOtelomere      TGGTCTCCTTTGGCTTCTCCGTCTACGAGCATTTTAAAGAGAGGACTAAAAAGATCCCAA
+NMRtelomere       TGGTCTCCTTTGGCTTCTCCATCTACCAGCATTTTAAAGAGAGGACTAAAACGACTCCAA
+                  ******************** ***** ************************ **  ****
+
+HOMOtelomere      GAAGATGAAATCTCATCACCTGTTAATAAGGTTCGCCGTGTCTCCTTTGCAGATCCAATA
+NMRtelomere       GAAGATGAGATCTCATCACCTGTTAACAAGGTTCGTCGTGTCTCATTTGCAGATCCAATA
+                  ******** ***************** ******** ******** ***************
+
+HOMOtelomere      TACCAAGCAGGATTGGCAGATGACATTGATAGACGGTGCTCTATTGTTAGGTCCCATTCT
+NMRtelomere       TACCAAGCAGGATTGGCAGATGACATTGATAGGCGATGTTCTCTTGTGAGGTCTCATTCT
+                  ******************************** ** ** *** **** ***** ******
+
+HOMOtelomere      TCCAATAGTTCTCCCATAGGAAAAAGTGTTAAAACTTCTCCTACTACACAATCTAAGCAT
+NMRtelomere       TCAAATAGTTCTCCTGTAATTAAAAGTGTTAAAACTTCACCTACTACACAAACTAAGCAT
+                  ** ***********  **   ***************** ************ ********
+
+HOMOtelomere      AATACCACTTCAGCCAAAGGATTTCTGTCCCCAGGATCACGTAGCCCTAAATTTAAGAGC
+NMRtelomere       AATACCACTTCAGCCAAAGGATTTCTGTCCCCAGGATCACGTAACTGTAAATTTAAGAGC
+                  ******************************************* *  *************
+
+HOMOtelomere      TCAAAGAAGTGTTTAATTTCAGAAATGGCCAAAGAATCCATACCATGCCCAACAGAAAGT
+NMRtelomere       TCAAAGAAGTGTTTAATTACAGAAATGACCAAAGAATCCATGCCATGCCCCACAGAAAGT
+                  ****************** ******** ************* ******** *********
+
+HOMOtelomere      GTTTACCCACCATTGGTGAACTGTGTGGCACCAGTTGACATCATTTTACCTCAGATTACA
+NMRtelomere       GTTTACCCAGCTTTGATGAATTGTGCAGCGCCAGTCGACATCATTTTACCTCAGATTACA
+                  ********* * *** **** ****  ** ***** ************************
+
+HOMOtelomere      TCAAACATGTGGGCAAGAGGCCTGGGACAACTCATTAGAGCTAAGAATATAAAAACTATT
+NMRtelomere       TCCAACATGTGGGCAAGAGGTCTAGGACAACTTATCAGAGCCAAGAATATAAAAACTATT
+                  ** ***************** ** ******** ** ***** ******************
+
+HOMOtelomere      GGTGATTTGAGTACTCTTACAGCATCTGAAATAAAAACTCTTCCTATCCGTTCTCCAAAA
+NMRtelomere       GGGGATTTGAGTACTCTTACAGCATCAGAAATAAAAACTCTTCCTATTCGTTCTCCAAAA
+                  ** *********************** ******************** ************
+
+HOMOtelomere      GTGTCCAATGTAAAAAAGGCTCTCAGAATATATCATGAGCAGCAGGTGAAGACTCGTGGA
+NMRtelomere       GTGTCTAATGTAAAAAAGGCTCTCAGAATATATCATGAACAGCAGATGAAGTCTCATGGA
+                  ***** ******************************** ****** ***** *** ****
+
+HOMOtelomere      CTAGAAGAGATTCCAGTTTTTGATATTTCTGAAAAAACAGTAAATGGAATAGAAAATAAA
+NMRtelomere       CTTGAAGAAATTCCAGTTTTTGATATTTCTGAGAAAACACTAAATGGAATGGAAAATAA-
+                  ** ***** *********************** ****** ********** ******** 
+
+HOMOtelomere      TCTTTGTCACCTGATGAAGAAAGACTTGTCTCAGATATAATTGATCCTGTTGCTTTAGAA
+NMRtelomere       -----ATCAGCTGATGAAGAAAGGCTTGTCTCAGATTTGATTAATCCTGTTGCTTTAGAA
+                        *** ************* ************ * *** *****************
+
+HOMOtelomere      ATTCCATTATCCAAAAACCTTCTGGCACAGATTAGTGCTCTTGCTCTTCAGCTGGATTCA
+NMRtelomere       ACTCCATTATCTAAAAATCTTTTGGCACAAATTAGTGCTCTTGCTCTTCAGTTGGATTCA
+                  * ********* ***** *** ******* ********************* ********
+
+HOMOtelomere      GAAGATCTTCATAATTATTCAGGAAGCCAACTATTTGAAATGCACGAGAAACTAAGTTGT
+NMRtelomere       GAAGATCTTCATAATTATTCAGGAAGCCAGCTATTTGAAATGCATGAGAAACTTGGTACT
+                  ***************************** ************** ********  **  *
+
+HOMOtelomere      ATGGCAAACTCTGTAATAAAAAATCTACAGTCACGTTGGAGATCACCATCCCATGAAAAT
+NMRtelomere       ATGGCAAACTCTATAATAAAAAATCTACAGTCACGTTGGAGATCACCAGCCCATGAAAAT
+                  ************ *********************************** ***********
+
+HOMOtelomere      TCTATTTAGGCCTGCGAACTGAGCGCCGTGCGCCTGCAGGTGCGCGCTGGGGCTGCCCTC
+NMRtelomere       ACTAGTTAG---------------------------------------------------
+                   *** ****                                                   
+
+HOMOtelomere      GGAGCCGGCGCACTCTGGGCCGCGACCTGGGGCCTCCTGCTGCTCTCGGTGCCCGTGGCG
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      GGGCAGCGCAGCAGCAAGAAGGTGGTGCATGTGCTCGAGGGAGAGTCGGGCTCTGTGGTG
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      GTGCAGACGGCGCCCGGGCAGGTGGTCACCCACCGAGGTGGCACTATCGCCTTGCCCTGT
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      CGCTACCACTACGAAGCGGCCGCCCATGGCCACGACGGTGTCCGTCTCAAGTGGACGAAG
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      GTGGTGGACCCGCTGGCCTTCACGGACGTCTTCGTGGCGCTGGGGCCCCAGCACCGGGCG
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      TTCGGCAGCTACCGCGGGCGGGCTGAGCTGCAGAACGACGGGCCTGGGGACGCCTCGCTG
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      GTCCTGCGAAATGTCACCCTGCAGGACTACGGGCGCTACGAGTGCGAGGTCACCAATGAG
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      CTGGAAGATGACGCCGGCATGGTCAAATTGGACCTGGAAGGCGTGGTCTTCCCCTACCAC
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      CCCCGTGGAGGCCGCTACAAGCTGACCTTCCCTGAGGCGCAGCGAGCGTGCGCTGAGCAG
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      GATGGCATCCTGGCGTCGGCCGAGCAGCTGCACGCAGCCTGGCGCGGAGGCCTGGACTGG
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      TGCAACGCGGGCTGGCTGCGCGACGGCTCGGTGCAGTACCCAGTGAGCAGGCCGCGGGAG
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      CCCTGCGGCGGCCTGGGCGGGACCGGGAGCGCGGGGCCCGACGGCGGTGGCGTGCACGGG
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      GGAGTGCGCAACTACGGCTATCGCCACAACGCCGGGGAGCGCTACGACGCCTTCTGCTTC
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      ACCTCCAACCTCCCGGGGCACGTGTTCTTCCTGAAGCCGCTGCGGCCCGTGCCCTTCGCG
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      GGAGCGGCGCGCGCGTGCGCGGCGCGGGGCGCGGCCGTGGCCAAGGTGGGGCAGCTGTTC
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      GCCGCCTGGAAGCTGCAGCTACTGGACCGCTGCACCGCCGGCTGGCTGGCAGACGGCAGC
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      GCGCGCTACCCCATCGTGAACCCGCGCGCACGCTGCGGGGGCCTCCGGCCCGGTGTGCGC
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      AGCCTCGGCTTCCCGGACTCGTCCCGGCGCCTCTTCGGCGTGTACTGCTACCGCGCCCCC
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      GGAGCGCCGGACCCCGCGCCTGGCGGCTGGGGCTGGGGCTGGGCCGGCGGCGGCGGCTGG
+NMRtelomere       ------------------------------------------------------------
+                                                                              
+
+HOMOtelomere      GCCGGGGGCGCGCGAGACCCCGCTGCCTGGACCCCACTGCGCGTCTAG
+NMRtelomere       ------------------------------------------------
+                                                                  

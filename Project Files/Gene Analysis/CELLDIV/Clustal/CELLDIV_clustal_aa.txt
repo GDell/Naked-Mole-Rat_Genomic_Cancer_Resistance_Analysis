@@ -1,0 +1,74 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+HOMOcelldiv      MDANSKDKPPETKESAMNNAGNASFILGTGKIVTPQKHAELPPNPCTPDTFKSPLNFSTV
+NMR_celldiv      --------------------------MGSAKS----------------------------
+                                           :*:.*                             
+
+HOMOcelldiv      TVEQLGITPESFVRNSAGKSSSYLKKCRRRSAVGARGSPETNHLIRFIARQQNIKNARKS
+NMR_celldiv      -----------------------------VPATPARPPPRNKHLARVADPRSPSAGIQRT
+                                                *. **  *..:** *.   :.   . :::
+
+HOMOcelldiv      PLAQDSPSQGSPALYRNVNTLRERISAFQSAFHSIKENEKMTGCLEFSEAGKESEMTDLT
+NMR_celldiv      PIQVESSPQTS-----------------------L-------------------------
+                 *:  :*  * *                       :                         
+
+HOMOcelldiv      RKEGLSACQQSGFPAVLSSKRRRISYQRDSDENLTDAEGKVIGLQIFNIDTDRACAVETS
+NMR_celldiv      ------------------------------------------------------------
+                                                                             
+
+HOMOcelldiv      VDLSEISSKLGSTQSGFLVEESLPLSELTETSNALKVADCVVGKGSSDAVSPDTFTAEVS
+NMR_celldiv      ------------------------------------------------------------
+                                                                             
+
+HOMOcelldiv      SDAVPDVRSPATPACRRDLPTPKTFVLRSVLKKPSVKMCLESLQEHCNNLYDDDGTHPSL
+NMR_celldiv      -------------------------SAREELEDP-------------EKAQDSDPRSPTL
+                                            *. *:.*             ::  *.*   *:*
+
+HOMOcelldiv      I-SNLPNCCKEKEAEDEENFEAPAFLNMRKRKRVTFGEDLSPEVFDESLPANTPLRKGGT
+NMR_celldiv      GITRTPMKA--SSA----DPESPLVK--------QLSEVFETEASKSNLPPDPLLPLGAV
+                   :. *  .  ..*    : *:* .          :.* :. *. ...** :  *  *..
+
+HOMOcelldiv      PVCKKDFSGLSSLLLEQSPVPEPLPQPDFDDKGENLENIEPLQVSFAVLSSPNKSSISET
+NMR_celldiv      SSSELDFTVDTHLFLEDKTK---LPSKQVLSK------EEATQL----TATPVASQTSDK
+                   .: **:  : *:**:.     **. :. .*       *  *:     ::*  *. *:.
+
+HOMOcelldiv      LSGTDTFSSSNNHEKISSPKVGRITRTSNRRNQLVSVVEESVCNLLNTEVQPCKEKKINR
+NMR_celldiv      PSGDP--------ETPRSPG-----SKHNRRKQNSKVLGRSPLTILQDDNSP--------
+                  **          *.  **       . ***:*  .*: .*  .:*: : .*        
+
+HOMOcelldiv      RKSQETKCTKRALPKKSQVLKSCRKKKGKGKKSVQKSLYGERDIASKKPLLSPIPELPEV
+NMR_celldiv      ------------------------------------------------------------
+                                                                             
+
+HOMOcelldiv      PEMTPSIPSIRRLGSGYFSSNGKLEEVKTPKNPVKRKDLLRHDPDLHMHQGYDKYDVSEF
+NMR_celldiv      ------------------------------------------------------------
+                                                                             
+
+HOMOcelldiv      CSYIKSSSSLGNATSDEDPNTNIMNINENKNIPKAKNKSESENEPKAGTDSPVSCASVTE
+NMR_celldiv      ------------------------------------------------------------
+                                                                             
+
+HOMOcelldiv      ERVASDSPKPALTLQQGQEFSAGGQNAENLCQFFKISPDLNIKCERKDDFLGAAEGKLQC
+NMR_celldiv      ---------GTLTARQGKRPSPL-------------------------------------
+                           :** :**:. *                                       
+
+HOMOcelldiv      NRLMPNSQKDCHCLGDVLIENTKESKSQSEDLGRKPMESSSVVSCRDRKDRRRSMCYSDG
+NMR_celldiv      ----------------------------SE------------------------------
+                                             **                              
+
+HOMOcelldiv      RSLHLEKNGNHTPSSSVGSSVEISLENSELFKDLSDAIEQTFQRRNSETKVRRSTRLQKD
+NMR_celldiv      ---------------NVGE-----------------------------VKEGAILRTGRL
+                                .**.                             .*     *  : 
+
+HOMOcelldiv      LENEGLVWISLPLPSTSQKAKRRTICTFDSSGFESMSPIKETVSSRQKPQMAPPVSDPEN
+NMR_celldiv      LKTGGCSWEPAQDHDKE----NQH--------F----PLVES------------------
+                 *:. *  *      ...    .:         *    *: *:                  
+
+HOMOcelldiv      SQGPAAGSSDEPGKRRKSFCISTLANTKATSQFKGYRRRSSLNGKGESSLTALERIEHNG
+NMR_celldiv      ------------------------------------------------------------
+                                                                             
+
+HOMOcelldiv      ERKQ
+NMR_celldiv      ----
+                     

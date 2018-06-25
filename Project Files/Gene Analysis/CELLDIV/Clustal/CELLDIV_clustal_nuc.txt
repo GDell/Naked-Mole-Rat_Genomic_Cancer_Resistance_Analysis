@@ -1,0 +1,210 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      ATGGATGCCAATTCAAAAGACAAGCCCCCTGAAACCAAGGAGTCTGCAATGAATAATGCT
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      GGAAATGCCTCTTTCATTTTGGGAACTGGGAAGATTGTGACTCCTCAGAAGCATGCCGAA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      TTACCTCCTAATCCTTGCACACCAGATACTTTTAAATCACCTTTGAACTTTTCCACAGTA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      ACCGTAGAGCAATTGGGAATTACACCTGAAAGCTTTGTTAGGAACTCTGCAGGAAAGTCA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      TCATCCTACCTTAAAAAATGTAGACGACGTTCTGCAGTCGGTGCTCGGGGCTCTCCTGAA
+                                                                             
+
+NMR_celldiv      --------------------------------------------------------ATGG
+HOMOcelldiv      ACAAACCATCTGATTCGTTTCATTGCTCGGCAGCAAAATATAAAGAATGCTAGGAAATCT
+                                                                         **  
+
+NMR_celldiv      GCTCAGC--CAAGAGCGTCCCA-----GCCACCCCAGCGCGGCCTCCACCACGTAACAAG
+HOMOcelldiv      CCTTTGGCACAAGATTCTCCTTCCCAGGGCAGCCCTGCACTGTATCGAAATGTTAACACT
+                  **  *   *****   ***       * ** *** ** * *  ** *     *****  
+
+NMR_celldiv      CATCTGGCTCGAGTAGCGGACCCTCGCTCGCCTAGTGCCGGCATCCAGCGCACT------
+HOMOcelldiv      TTAAGAGAACGAATATCAGCCTTCCAGTCAGCTTTTCACTCCATAAAGGAAAACGAGAAA
+                       *  *** ** * * *   *  **  **  *  *  ***  **   *        
+
+NMR_celldiv      ---CCTATCCAGGTGGAGAGCTCTCCACAAACAAG------------------CCTGTCC
+HOMOcelldiv      ATGACCGGCTGTCTGGAATTCTCAGAGGCAGGAAAAGAGTCCGAGATGACAGACTTGACC
+                     *   *    ****   ***      *  **                   * ** **
+
+NMR_celldiv      GCCAGAGAAGAGCTGGAGGATCCTGAGAAGGCCCAGGACTCAGATCCTCGCTCTCCG---
+HOMOcelldiv      AGAAAGGAAGGTCTCAGCGCTTGCCAGCAGTCT--GGGTTCCCTGCAGTGTTGTCCTCCA
+                    *  ****  **    * *    ** ** *   **  **    *   * * ***    
+
+NMR_celldiv      ACG---------CTTGGCATCACACGGACACCTATGAAGGCCAGCAGTGCAGACCCTGAG
+HOMOcelldiv      AACGTCGGAGAATATCCTATCAGAGAGACTCTGATGAAAATCTGAC----GGATGCTGAA
+                 *             *   **** *  *** *  *****   * *       **  **** 
+
+NMR_celldiv      AGTCCACTGGTGAAACAGCTGAGTGAAGTATTTG----AGACTGAAGCCTCAAAGTCGAA
+HOMOcelldiv      GGAAAAGTAATTGGTCTCCAGATATTCAATATTGATACAGACAGAGCATGTGCAGTTGAA
+                  *   * *  *    *  * **         ***    **** **        *** ***
+
+NMR_celldiv      TCTCCCCCCAGACCCTCTTCTGCCCCTGGGAGCAGTTTCATCAT-CTGAACTGGACTTTA
+HOMOcelldiv      ACTTCTGTAGATCTTTCTGAGATATC-ATCTAAACTTGGTTCAACACAGTCTGGATTTTT
+                  ** *       *  ***       *       * **   ***       ***** *** 
+
+NMR_celldiv      CTGTGGATACTCACTTATTCCTGGAGGACAAGACCAAGCTCCCCTCTAAACAGGTGTTGT
+HOMOcelldiv      AGTTGAAGAGTCTCTTCCCCTTTCAGAGCTCACAGAGACTTCAAATGCACTAAAGGTTGC
+                    ** * * ** ***   * *  **  *      *  ** *      *  *   **** 
+
+NMR_celldiv      CCAAGGAGGAAGCTACACAG-CTCACAGCAACCCCCGTGGCCAGC----CAGACCTCGGA
+HOMOcelldiv      TGACTGTGTAGTGGGCAAAGGATCAAGTGATGCCGTTTCGCCTGACACGTTCACAGCAGA
+                   *  * * *     ** **  ***    *  **   * *** *        **  * **
+
+NMR_celldiv      CAAGCCCTCAGGAGACCCCGAAACTCCCCGATCTCCAGGTTCTAAGCACAATAGACGGAA
+HOMOcelldiv      AGTGAGCTCAGACGCAGTCCCTGATGTCAGGTCACCAGCTACTCCAGCCTGCAGGAGGGA
+                    *  *****  *    *     *  * * ** **** * **     *   **  ** *
+
+NMR_celldiv      ACAAAAC---AGCA---AGGTACTAGGGAGATCTCCCCTCACCATCCTGCAGGAT-----
+HOMOcelldiv      CCTTCCCACCCCCAAGACCTTTGTACTTCGTTCTGTACTGAAGAAACCCTCTGTTAAGAT
+                  *    *     **      *  **    * ***   ** *  *  *     * *     
+
+NMR_celldiv      --------------------------GACAACTCCCCTGGGACCCTGACAGCACG----A
+HOMOcelldiv      GTGTCTAGAGAGCTTACAGGAACACTGTAACAACCTCTATGATGATGATGGGACTCATCC
+                                           *  *   ** **  **   ***  * **      
+
+NMR_celldiv      CAGGGTAAGCGGCCTTCTCCCCT-GAGTGAAAATGTCGGGGAAGTGAAGGAAGGAGCCAT
+HOMOcelldiv      GAGCTTAATCTCAAATCTCCCAAACTGTTGCAAAGAGAAAGAAGCAGAAGATGAAGAAAA
+                  **  *** *     ******     **   ** *     ****   * ** * **  * 
+
+NMR_celldiv      TCTCAGAACTGGACGACTTCTGAAAACTGGAGGCTGCTCATGGGAGCCA-----------
+HOMOcelldiv      TTTTGAAGCACCTGCCTTTCTA--AATATGAGGAAGAGGAAGAGAGTTACTTTTGGAGAG
+                 * *   * *        ****   **   ****  *   * * ***  *           
+
+NMR_celldiv      -------GCCCAGGA------------CCATGACAAGGAAA------------------A
+HOMOcelldiv      GACTTAAGCCCGGAAGTGTTTGATGAATCTTTGCCAGCAAATACTCCATTGCGTAAAGGA
+                        **** * *             * *  * ** ***                  *
+
+NMR_celldiv      TCAGCACTTTCCTTTGGTAGAGAGTTAG--------------------------------
+HOMOcelldiv      GGAACACCTGTTTGTAAAAAAGACTTCAGTGGTCTCAGTTCCCTGCTGCTTGAGCAGTCA
+                   * *** *   * *   * *** **                                  
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      CCTGTTCCTGAGCCATTACCTCAACCAGATTTTGATGACAAGGGGGAGAATCTTGAAAAC
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      ATAGAACCACTTCAAGTATCATTTGCCGTTCTCAGTTCTCCTAATAAATCATCAATCTCT
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      GAGACCCTTTCAGGCACTGATACCTTTAGTTCTTCAAATAACCATGAGAAAATATCCTCT
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      CCTAAAGTTGGTAGAATAACAAGGACTTCTAACAGAAGAAATCAATTGGTCAGTGTTGTA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      GAAGAGAGTGTTTGCAACTTATTGAATACAGAAGTTCAGCCTTGTAAAGAAAAGAAAATT
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      AATAGGAGGAAGTCTCAAGAAACAAAGTGTACAAAGAGAGCACTTCCTAAGAAGAGTCAG
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      GTTTTAAAAAGTTGCAGAAAGAAGAAAGGAAAGGGAAAGAAAAGTGTTCAGAAATCTTTA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      TATGGGGAAAGAGACATTGCTTCTAAGAAGCCCCTCCTCAGTCCTATTCCCGAGCTGCCT
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      GAAGTCCCTGAGATGACACCTTCCATTCCGAGCATCCGAAGACTGGGTTCAGGTTATTTC
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      AGTTCAAATGGCAAACTGGAAGAAGTGAAGACTCCTAAAAATCCAGTGAAAAGAAAGGAT
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      CTTTTGCGTCATGACCCAGATTTGCATATGCATCAAGGCTATGATAAATATGATGTCTCT
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      GAATTCTGCTCTTATATAAAAAGTTCCTCATCGCTTGGCAATGCTACTTCTGATGAAGAT
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      CCAAATACAAATATAATGAACATTAATGAAAATAAAAATATTCCAAAAGCAAAAAATAAG
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      TCAGAAAGTGAAAATGAACCAAAAGCTGGAACTGACAGTCCTGTTTCTTGTGCTTCTGTA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      ACTGAAGAACGTGTGGCATCAGATAGTCCCAAACCTGCTCTGACCCTGCAGCAGGGTCAA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      GAATTTTCTGCTGGTGGTCAAAATGCAGAAAACCTTTGTCAGTTCTTTAAAATTTCACCA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      GATTTAAACATAAAGTGTGAAAGAAAGGATGACTTCTTAGGAGCTGCAGAAGGAAAACTG
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      CAATGCAATCGTTTAATGCCTAATTCACAAAAAGACTGTCATTGTTTAGGAGATGTCTTA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      ATTGAAAATACGAAAGAATCTAAAAGCCAGAGTGAGGATTTGGGAAGAAAACCCATGGAA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      AGTAGCAGTGTTGTGAGTTGCAGAGACAGGAAAGATAGAAGACGTTCCATGTGTTATTCT
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      GATGGTCGAAGTTTACATTTGGAAAAAAATGGAAATCACACACCATCCTCCAGTGTGGGC
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      AGCTCTGTAGAAATTAGTTTAGAAAATTCTGAACTGTTTAAAGATTTGTCTGATGCCATT
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      GAGCAAACCTTTCAGAGGAGAAATAGTGAAACCAAAGTGCGACGTAGCACGAGGCTACAG
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      AAGGATTTAGAAAACGAAGGTCTTGTATGGATTTCACTTCCACTTCCTTCCACTTCCCAA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      AAAGCCAAAAGAAGAACAATATGTACATTTGACAGCAGTGGATTTGAAAGTATGTCTCCC
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      ATAAAAGAAACTGTGTCCTCCAGACAAAAACCGCAGATGGCACCTCCCGTCTCAGATCCA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      GAAAACAGCCAGGGCCCTGCTGCTGGTTCTTCCGATGAACCTGGTAAGAGGAGGAAGAGC
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      TTTTGTATATCTACACTTGCAAATACTAAAGCCACTTCCCAGTTCAAAGGCTACCGGAGA
+                                                                             
+
+NMR_celldiv      ------------------------------------------------------------
+HOMOcelldiv      AGATCCTCTCTTAATGGGAAGGGAGAGAGCTCTCTGACTGCCTTGGAAAGGATTGAACAT
+                                                                             
+
+NMR_celldiv      ---------------------
+HOMOcelldiv      AATGGAGAAAGAAAGCAGTAA
+                                      

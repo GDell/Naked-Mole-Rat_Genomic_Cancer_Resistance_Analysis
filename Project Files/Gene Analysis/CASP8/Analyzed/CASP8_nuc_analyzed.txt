@@ -1,0 +1,822 @@
+The following is nucleotide output for the TELOMERE gene alignment: 
+ index :1.0 is a non match
+The following are the mismatch: ['-', 'A']
+index :2.0 is a non match
+The following are the mismatch: ['-', 'T']
+index :3.0 is a non match
+The following are the mismatch: ['-', 'G']
+index :4.0 is a non match
+The following are the mismatch: ['-', 'G']
+index :5.0 is a non match
+The following are the mismatch: ['-', 'C']
+index :6.0 is a non match
+The following are the mismatch: ['-', 'A']
+index :7.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :12.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :13.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :18.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :19.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :27.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :28.0 is a non match
+The following are the mismatch: ['C', 'A']
+index :29.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :33.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :36.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :39.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :42.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :45.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :49.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :50.0 is a non match
+The following are the mismatch: ['C', 'A']
+index :51.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :54.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :64.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :70.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :71.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :75.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :76.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :84.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :94.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :95.0 is a non match
+The following are the mismatch: ['T', 'A']
+index :96.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :99.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :100.0 is a non match
+The following are the mismatch: ['G', 'T']
+index :104.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :105.0 is a non match
+The following are the mismatch: ['T', 'A']
+index :106.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :108.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :110.0 is a non match
+The following are the mismatch: ['C', 'A']
+index :111.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :112.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :116.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :118.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :126.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :131.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :132.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :134.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :135.0 is a non match
+The following are the mismatch: ['T', 'A']
+index :136.0 is a non match
+The following are the mismatch: ['T', 'A']
+index :138.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :139.0 is a non match
+The following are the mismatch: ['C', 'A']
+index :141.0 is a non match
+The following are the mismatch: ['G', 'T']
+index :144.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :150.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :151.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :159.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :160.0 is a non match
+The following are the mismatch: ['G', 'T']
+index :161.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :163.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :164.0 is a non match
+The following are the mismatch: ['G', 'T']
+index :167.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :169.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :174.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :177.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :189.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :193.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :198.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :201.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :213.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :216.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :217.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :219.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :220.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :224.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :232.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :234.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :235.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :236.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :237.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :240.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :241.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :247.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :248.0 is a non match
+The following are the mismatch: ['C', 'A']
+index :257.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :262.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :268.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :269.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :273.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :276.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :279.0 is a non match
+The following are the mismatch: ['G', 'T']
+index :285.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :288.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :298.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :299.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :300.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :306.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :316.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :321.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :324.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :330.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :336.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :337.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :340.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :342.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :344.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :356.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :360.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :365.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :366.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :367.0 is a non match
+The following are the mismatch: ['G', '-']
+index :368.0 is a non match
+The following are the mismatch: ['G', '-']
+index :369.0 is a non match
+The following are the mismatch: ['C', '-']
+index :370.0 is a non match
+The following are the mismatch: ['C', '-']
+index :371.0 is a non match
+The following are the mismatch: ['G', '-']
+index :372.0 is a non match
+The following are the mismatch: ['A', '-']
+index :380.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :382.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :383.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :390.0 is a non match
+The following are the mismatch: ['G', 'T']
+index :405.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :408.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :411.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :412.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :417.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :427.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :429.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :441.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :445.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :451.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :456.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :460.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :490.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :504.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :510.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :511.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :513.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :530.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :541.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :543.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :554.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :559.0 is a non match
+The following are the mismatch: ['G', 'T']
+index :560.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :562.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :570.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :571.0 is a non match
+The following are the mismatch: ['G', 'T']
+index :573.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :574.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :578.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :579.0 is a non match
+The following are the mismatch: ['-', 'A']
+index :580.0 is a non match
+The following are the mismatch: ['-', 'A']
+index :581.0 is a non match
+The following are the mismatch: ['-', 'A']
+index :582.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :583.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :584.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :594.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :599.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :604.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :609.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :612.0 is a non match
+The following are the mismatch: ['C', 'A']
+index :621.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :636.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :638.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :640.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :644.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :648.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :649.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :652.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :653.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :657.0 is a non match
+The following are the mismatch: ['G', 'T']
+index :659.0 is a non match
+The following are the mismatch: ['T', 'A']
+index :661.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :663.0 is a non match
+The following are the mismatch: ['C', 'A']
+index :664.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :666.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :669.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :670.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :671.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :672.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :678.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :686.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :687.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :690.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :691.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :704.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :708.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :711.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :713.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :721.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :725.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :726.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :729.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :730.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :731.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :732.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :742.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :743.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :748.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :749.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :755.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :762.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :765.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :772.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :787.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :789.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :792.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :794.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :795.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :797.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :798.0 is a non match
+The following are the mismatch: ['G', 'T']
+index :799.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :804.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :805.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :813.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :823.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :825.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :836.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :837.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :847.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :848.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :849.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :852.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :853.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :856.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :858.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :861.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :862.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :863.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :864.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :865.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :868.0 is a non match
+The following are the mismatch: ['C', 'A']
+index :869.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :870.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :872.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :873.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :876.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :877.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :878.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :883.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :888.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :889.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :894.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :895.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :897.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :900.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :902.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :903.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :904.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :905.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :910.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :918.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :921.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :922.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :924.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :933.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :939.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :940.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :954.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :957.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :959.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :961.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :966.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :969.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :974.0 is a non match
+The following are the mismatch: ['A', 'T']
+index :975.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :984.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :988.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :990.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :996.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1002.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :1009.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :1011.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :1014.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :1015.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1021.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1022.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1024.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1031.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1035.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1038.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1039.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :1041.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1048.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1049.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1050.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1053.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1055.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :1056.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1065.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1069.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1071.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1074.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1077.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1080.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1085.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1089.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1098.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1103.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1109.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1112.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1114.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1115.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1126.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1133.0 is a non match
+The following are the mismatch: ['T', 'A']
+index :1137.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1146.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :1147.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1151.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1152.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1154.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1155.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1161.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1163.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1166.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1169.0 is a non match
+The following are the mismatch: ['C', 'A']
+index :1170.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :1171.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :1172.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1174.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1175.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1178.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1180.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1181.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1184.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1185.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1186.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1187.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1191.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1192.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1194.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :1199.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :1200.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1203.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1206.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1209.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :1210.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :1213.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1223.0 is a non match
+The following are the mismatch: ['T', 'A']
+index :1227.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1228.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1229.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :1230.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :1233.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1234.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1238.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1241.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :1243.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :1255.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1257.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1258.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :1259.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1261.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1262.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1263.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :1264.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :1266.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1269.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1270.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1271.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :1273.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :1285.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :1297.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1299.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1303.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1304.0 is a non match
+The following are the mismatch: ['G', 'T']
+index :1305.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1308.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1311.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1320.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :1326.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :1327.0 is a non match
+The following are the mismatch: ['C', 'T']
+index :1332.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1335.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :1341.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1342.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :1343.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1344.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1350.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1354.0 is a non match
+The following are the mismatch: ['T', 'A']
+index :1355.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1356.0 is a non match
+The following are the mismatch: ['C', 'A']
+index :1357.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1362.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1365.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1377.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1380.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1381.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1383.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1384.0 is a non match
+The following are the mismatch: ['G', 'A']
+index :1387.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1390.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1394.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1395.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1398.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1399.0 is a non match
+The following are the mismatch: ['T', 'A']
+index :1400.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1401.0 is a non match
+The following are the mismatch: ['T', 'C']
+index :1402.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1406.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1407.0 is a non match
+The following are the mismatch: ['G', 'C']
+index :1419.0 is a non match
+The following are the mismatch: ['T', 'G']
+index :1425.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1430.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1431.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1435.0 is a non match
+The following are the mismatch: ['A', 'G']
+index :1440.0 is a non match
+The following are the mismatch: ['C', 'G']
+index :1445.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1449.0 is a non match
+The following are the mismatch: ['A', 'C']
+index :1451.0 is a non match
+The following are the mismatch: ['A', 'G']
+There were no mutations in key sites
+The percent similarity for these two genes without dashes: 0.72952512044
+The percent similarity for these two genes with dashes: 0.719201651755
+The total number of indexes searched: 1453.0
+The total number of nonmatches was: 393
