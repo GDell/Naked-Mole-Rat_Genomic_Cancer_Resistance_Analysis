@@ -3,6 +3,8 @@ Project by Gabriel Dell'Accio and Jordan Peyer
 
 ## Project Structure
 
+<img src="./images/weightByLifespan.PNG" width="380px" height="280px"/>
+
 ### Blast Annotation
 First, we annotated the NMR transcriptome we found at www.naked-mole-rat.org by Blasting it against Swiss Prot at an e-val of 10. The results of our blast annotation and parsing of the blast results is located in the "Blast Annotation" file within our google drive, or the "NMR_annotation" file in my finalProject/NMR/ folder on jr. The entire raw Blast result file is located on jr in this directory. We only included the parsed results of our blast annotation in our google drive as the raw file is huge. In order to fully annotate and parse the results of the Blast search, I wrote a blast parse program discussed below in the Analsis Scripts section. The primary things we parsed for were e-val, gene name, accession number, gene-id, and contig.
 
